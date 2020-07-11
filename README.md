@@ -1,4 +1,6 @@
-### Hi there 👋
+- Read my blogs: https://ron.sh/
+- Use my free image hosting/stock photo website for the color blind and not: https://kulay.ron.sh/
+- Check my CV: https://cv.ron.sh/
 
 <!--
 **roniemartinez/roniemartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
