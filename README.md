@@ -1,6 +1,6 @@
 ### My work:
 
-- Read my blogs: https://ron.sh/
+- Read my blog: https://ron.sh/
 - Use my free image hosting/stock photo website for the color blind and not: https://kulay.ron.sh/
 - Check my CV: https://cv.ron.sh/
 
