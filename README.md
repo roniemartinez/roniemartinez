@@ -10,6 +10,10 @@ If you like my work or if it is useful to you, show your support by buying me a 
 
 <a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+Or use my DigitalOcean referral below.
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=5b9c0bd05e4e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 <!--
 **roniemartinez/roniemartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
