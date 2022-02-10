@@ -1,8 +1,3 @@
-<a href="https://github.com/roniemartinez">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=roniemartinez&count_private=true&show_icons=true&include_all_commits=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniemartinez&layout=compact&hide_title=true">
-</a>
-
 ### About me
 
 - Read my blog: https://ron.sh/
