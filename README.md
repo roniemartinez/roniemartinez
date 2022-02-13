@@ -6,9 +6,9 @@
 - Check my CV: https://cv.ron.sh/
 
 ### Show your support
-If you like my work or if it is useful to you, show your support by buying me a coffee.
+If you like my work or if it is useful to yo, show your support by sponsoring my projects.
 
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![Github Sponsors](https://img.shields.io/github/sponsors/roniemartinez?label=github%20sponsors&logo=github%20sponsors&style=for-the-badge)](https://github.com/sponsors/roniemartinez)
 
 Or use my DigitalOcean referral below.
 
