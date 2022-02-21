@@ -1,30 +1,19 @@
-### About me
+What I do in the world of software engineering.
 
-- Read my blog: https://ron.sh/
-- Upload and download your files easily from terminal (or browser): https://pfft.sh/
-- Use my free image hosting/stock photo website for the color blind and not: https://kulay.ron.sh/
-- Check my CV: https://cv.ron.sh/
+- I maintain a few Python libraries like:
+  - [dude uncomplicated data extraction](https://github.com/roniemartinez/dude)
+  - [latex2mathml: Pure Python library for LaTeX to MathML conversion](https://github.com/roniemartinez/latex2mathml)
+  - [amortization: Python library for calculating amortizations and generating amortization schedules](https://github.com/roniemartinez/amortization)
+- I maintain 1 Qt/C++ plugin
+  - [libqpsd: PSD (Photoshop Document) & PSB (Photoshop Big) Plugin for Qt/C++ (Qt4/Qt5)](https://github.com/roniemartinez/libqpsd)
+- I write software engineering blog at https://ron.sh/
+- I am maintaining [pfft.sh](https://pfft.sh/) website
+- I roam around Github writing bug reports and creating pull requests to some Python libraries that I love and use in my everyday work ❤️ 
 
-### Show your support
-If you like my work or if it is useful to you, show your support by sponsoring my projects.
+Sponsors keep me motivated in writing, maintaining projects, help open source and building new things.
 
 [![Github Sponsors](https://img.shields.io/github/sponsors/roniemartinez?label=github%20sponsors&logo=github%20sponsors&style=for-the-badge)](https://github.com/sponsors/roniemartinez)
 
-Or use my DigitalOcean referral below.
+Use my DigitalOcean referral below.
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=5b9c0bd05e4e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-<!--
-**roniemartinez/roniemartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
