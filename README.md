@@ -1,4 +1,8 @@
-What I do in the world of software engineering.
+I am a software developer from the Philippines. 🇵🇭 
+
+I am currently living and working in Cologne, Germany. 🇩🇪 
+
+So what do I do in the world of software engineering?
 
 - I maintain a few Python libraries like:
   - [dude uncomplicated data extraction](https://github.com/roniemartinez/dude)
