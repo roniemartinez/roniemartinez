@@ -8,6 +8,7 @@ So what do I do in the world of software engineering?
   - [dude uncomplicated data extraction](https://github.com/roniemartinez/dude)
   - [latex2mathml: Pure Python library for LaTeX to MathML conversion](https://github.com/roniemartinez/latex2mathml)
   - [amortization: Python library for calculating amortizations and generating amortization schedules](https://github.com/roniemartinez/amortization)
+  - [browsers: Python library for detecting and launching browsers](https://github.com/roniemartinez/browsers)
 - I maintain 1 Qt/C++ plugin
   - [libqpsd: PSD (Photoshop Document) & PSB (Photoshop Big) Plugin for Qt/C++ (Qt4/Qt5)](https://github.com/roniemartinez/libqpsd)
 - I write software engineering blog at https://ron.sh/
