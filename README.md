@@ -17,7 +17,7 @@ So what do I do in the world of software engineering?
 
 Sponsors keep me motivated in writing, maintaining projects, help open source and building new things.
 
-[![Github Sponsors](https://img.shields.io/github/sponsors/roniemartinez?label=github%20sponsors&logo=github%20sponsors&style=for-the-badge)](https://github.com/sponsors/roniemartinez)
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 Use my DigitalOcean referral below.
 
