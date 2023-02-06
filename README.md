@@ -12,7 +12,7 @@ So what do I do in the world of software engineering?
 - I maintain 1 Qt/C++ plugin
   - [libqpsd: PSD (Photoshop Document) & PSB (Photoshop Big) Plugin for Qt/C++ (Qt4/Qt5)](https://github.com/roniemartinez/libqpsd)
 - I write software engineering blog at https://ron.sh/
-- I am maintaining [pfft.sh](https://pfft.sh/) website
+- I am maintaining [pfft.ron.sh](https://pfft.ron.sh/) website
 - I roam around Github writing bug reports and creating pull requests to some Python libraries that I love and use in my everyday work ❤️ 
 
 Sponsors keep me motivated in writing, maintaining projects, help open source and building new things.
