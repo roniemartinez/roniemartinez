@@ -1,6 +1,8 @@
-I am a software developer from the Philippines. 🇵🇭 
+I am a software developer from the Philippines. 
 
-I am currently living and working in Cologne, Germany. 🇩🇪 
+Philippines 🇵🇭 -> Germany 🇩🇪 -> United Kingdom 🇬🇧
+
+I am now in the UK. 🇬🇧 
 
 So what do I do in the world of software engineering?
 
