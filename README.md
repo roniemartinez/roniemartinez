@@ -17,7 +17,7 @@ So what do I do in the world of software engineering?
   - [Pulsars: A Tauri-based spreadsheet](https://github.com/roniemartinez/pulsars)
 - I write software engineering blog at https://ron.sh/
 - I am maintaining [pfft.ron.sh](https://pfft.ron.sh/) website
-- I roam around Github writing bug reports and creating pull requests to some Python libraries that I love and use in my everyday work ❤️ 
+- I roam around Github writing bug reports and creating pull requests to some Python and Rust libraries that I love and use in my everyday work ❤️ 
 
 Sponsors keep me motivated in writing, maintaining projects, help open source and building new things.
 
