@@ -1,6 +1,6 @@
 I am a software developer from the Philippines. 
 
-Philippines 🇵🇭 -> Germany 🇩🇪 -> United Kingdom 🇬🇧
+Philippines 🇵🇭 ➡️ Germany 🇩🇪 ➡️ United Kingdom 🇬🇧
 
 I am now in the UK. 🇬🇧 
 
@@ -13,6 +13,8 @@ So what do I do in the world of software engineering?
   - [browsers: Python library for detecting and launching browsers](https://github.com/roniemartinez/browsers)
 - I maintain 1 Qt/C++ plugin
   - [libqpsd: PSD (Photoshop Document) & PSB (Photoshop Big) Plugin for Qt/C++ (Qt4/Qt5)](https://github.com/roniemartinez/libqpsd)
+- I started writing in Rust and loving it
+  - [Pulsars: A Tauri-based spreadsheet](https://github.com/roniemartinez/pulsars)
 - I write software engineering blog at https://ron.sh/
 - I am maintaining [pfft.ron.sh](https://pfft.ron.sh/) website
 - I roam around Github writing bug reports and creating pull requests to some Python libraries that I love and use in my everyday work ❤️ 
