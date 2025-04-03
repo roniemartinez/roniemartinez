@@ -39,7 +39,7 @@ My open-source work is motivated by the incredible support I receive from my spo
 If you're looking for reliable cloud hosting or proxy services, consider using my referral links to get some rewards and support my work! Your support helps me host my blog and demo projects.
 
 #### 💾 **DigitalOcean**  
-Get started with DigitalOcean and earn up to $100 in credits for your projects!  
+Get started with DigitalOcean and get $200 in credits for your projects!  
 [Sign up with my referral link](https://www.digitalocean.com/?refcode=5b9c0bd05e4e) and start building on the cloud today!
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=5b9c0bd05e4e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
